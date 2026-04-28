@@ -1,0 +1,16 @@
+123
+john day
+19
+3
+computer science
+4
+600
+9.8
+1245
+jecab faraday
+19
+male
+electronics and communication
+4
+650
+9.9
